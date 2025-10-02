@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é o projeto em grupo da disciplina **Computação e Sociedade**. O projeto consiste em uma landing page que explora as relações entre tecnologia computacional e seus impactos na sociedade contemporânea.
+Este é o projeto em grupo da disciplina **Computação e Sociedade**. O projeto consiste em uma landing page que explora o produto escolhido para o trabalho que compõe a nota da matéria. O projeto tem como base o produto ficticio de um assistente de IA que seria integrado aos serviços de streaming mais famosos que serviriam para acessibilidade ou facilidade do usuário, poder conversar com o site e ir onde quisesse somente com comandos de voz.
 
 ## Visualização Online
 
